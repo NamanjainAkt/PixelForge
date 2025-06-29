@@ -8,7 +8,7 @@ import { red } from "@mui/material/colors";
 const Container = styled.div`
   flex: 1;
   background: transparent;
-  filter:brightness(0.7);
+  filter:brightness(1);
   backdrop-filter: blur(50px);
   color: ${({ theme }) => theme.text_primary};
   font-weight: bold;
