@@ -10,7 +10,7 @@ const Container = styled.div`
   width: 100%;
   height: 100%;
   display: flex;
-  background-image: url(${bg});
+  background:#111;
   filter: brightness(0.9);
   background-size: cover;
   background-position: center;
